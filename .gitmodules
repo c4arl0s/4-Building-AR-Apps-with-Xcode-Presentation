@@ -1,0 +1,12 @@
+[submodule "TheAugmentedRealityTemplate"]
+	path = TheAugmentedRealityTemplate
+	url = git@github.com:c4arl0s/TheAugmentedRealityTemplate.git
+[submodule "IntroductionToSceneKit"]
+	path = IntroductionToSceneKit
+	url = git@github.com:c4arl0s/IntroductionToSceneKit.git
+[submodule "FindingFlatSurfaces"]
+	path = FindingFlatSurfaces
+	url = git@github.com:c4arl0s/FindingFlatSurfaces.git
+[submodule "InteractingWithAugmentedReality"]
+	path = InteractingWithAugmentedReality
+	url = git@github.com:c4arl0s/InteractingWithAugmentedReality.git
